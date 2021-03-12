@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Aishwarya
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning JavaScript and then React (maybe)
-- 📫 You can reach me on [Twitter](https://twitter.com/html_newbiee "Aishwarya's Twitter")
+👋 Hi, I’m Aishwarya <br>
+👀 I’m interested in Frontend Development <br>
+🌱 I’m currently learning JavaScript and then React (maybe) <br>
+📫 You can reach me on [Twitter](https://twitter.com/html_newbiee "Aishwarya's Twitter") <br>
 
 
 <!---
