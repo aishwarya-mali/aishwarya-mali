@@ -1,7 +1,8 @@
 👋 Hi, I’m Aishwarya <br>
-👀 I’m interested in Frontend Development <br>
+👀 I’m love HTML & CSS <br>
 🌱 I’m currently learning JavaScript and React <br>
-📫 You can reach me on [Twitter](https://twitter.com/html_newbiee "Aishwarya's Twitter") <br>
+📫 You can reach me on [Twitter](https://twitter.com/html_newbiee "Aishwarya's Twitter") and check my Portfolio [here](https://aishwarya-mali.github.io/portfolio/ "Aishwarya's Portfolio") <br>
+
 
 
 <!---
