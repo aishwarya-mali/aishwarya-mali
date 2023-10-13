@@ -8,7 +8,7 @@ I'm a React-Focused Frontend Developer with a Passion for CSS and JavaScript, Cu
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [aishwaryamali29@gmail.com](mailto:aishwaryamali29@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning Angular
 
 ### Skills
 
