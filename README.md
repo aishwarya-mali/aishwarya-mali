@@ -4,11 +4,10 @@ Hi 👋 My name is Aishwarya Mali
 I Love Building User-Friendly and Dynamic Web Interfaces
 -------------------------------------------------
 
-I'm a React-Focused Frontend Developer with a Passion for CSS and JavaScript, Currently Learning Angular.
+I'm a React-Focused Frontend Developer with a Passion for CSS and JavaScript.
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [aishwaryamali29@gmail.com](mailto:aishwaryamali29@gmail.com)
-* 🧠  I'm learning Angular
 
 ### Skills
 
